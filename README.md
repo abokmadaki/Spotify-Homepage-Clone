@@ -1,10 +1,9 @@
 # Spotify-Homepage-Clone
-# Spotify Homepage Clone
 
 This is a clone of the Spotify homepage built using HTML and CSS. It aims to replicate the design and layout of the original Spotify homepage.
 
 ## Screenshots
-
+<img src="https://github.com/abokmadaki/Spotify-Homepage-Clone/blob/main/Spotify Homepage.jpg">
 
 ## Features
 
